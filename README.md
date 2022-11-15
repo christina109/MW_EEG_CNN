@@ -7,3 +7,6 @@ Manuscript under submission.
 
 Citation:
 Jin, C. Y., Borst, J. P., & van Vugt, M. K. (submitted). Decoding Study-Independent Mind-Wandering from EEG using Convolutional Neural Networks. 
+
+Data can be download at:
+https://unishare.nl/index.php/s/T94LXPQqw5FEA4J
