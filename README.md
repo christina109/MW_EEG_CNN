@@ -1,5 +1,5 @@
 # MW_EEG_CNN
-code for Jin, C. Y., Borst, J. P., & van Vugt, M. K. (submitted). Decoding Study-Independent Mind-Wandering from EEG using Convolutional Neural Networks:
+code for Jin, C. Y., Borst, J. P., & van Vugt, M. K. (2023). Decoding Study-Independent Mind-Wandering from EEG using Convolutional Neural Networks:
  - code_matlab for EEG (pre)processing and feature computing
  - code_pyfile for machine learning 
 
